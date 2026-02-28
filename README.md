@@ -1,5 +1,5 @@
 ## Hi there 👋
-Curious & Tenacious Developer 🚀.
+<p>Curious & Tenacious Developer 🚀.</p>
 I'm Paulos a computer science student who is passionate about codes and building web projects.
 
 
