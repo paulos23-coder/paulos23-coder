@@ -6,7 +6,7 @@ A junior FullStack developer aslso computer science student who is passionate ab
 
 - 🔭 Currently working on personal project landing soon.
 - 🌱 I’m currently learning more about backend technologies node.js and pytorch.
--  🛠 Skills & Technologies:
+- ## 🛠 Skills & Technologies:
 -    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,5 +20,4 @@ A junior FullStack developer aslso computer science student who is passionate ab
 ## 📫 Connect with Me
 - LinkedIn: [Paulos Girmachew](https://www.linkedin.com/in/paulos-girmachew-0420473b3)  
 - GitHub: [Paulos Girmachew](https://github.com/paulos23-coder)
-- Email: [paulosgrimachew28@gmail.com](paulosgirmachew28@gmail.com)
- 
+- [Email me](mailto:paulosgirmachew28@gmail.com)
