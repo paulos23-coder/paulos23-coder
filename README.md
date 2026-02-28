@@ -1,6 +1,7 @@
 ## Hi there 👋
+<p>I'm Paulos Girmachew </p>
 <p>Curious & Tenacious Developer 🚀.</p>
-I'm Paulos a computer science student who is passionate about codes and building web projects.
+A junior FullStack developer aslso computer science student who is passionate about codes and building web projects.
 
 
 - 🔭 Currently working on personal project landing soon.
