@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>I'm Paulos Girmachew </p>
+<p>I'm Paulos Girmachew 👨🏽‍💻</p>
 <p>Curious & Tenacious Developer 🚀.</p>
 A junior FullStack developer aslso computer science student who is passionate about codes and building web projects.
 
@@ -14,7 +14,9 @@ A junior FullStack developer aslso computer science student who is passionate ab
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ⚡ I love debugging, problem-solving, and experimenting with new tech.
+- 
 -->
 ## 📫 Connect with Me
 - LinkedIn: [Paulos Girmachew](https://www.linkedin.com/in/paulos-girmachew-0420473b3)  
-- GitHub: [Paulos Girmachew](https://github.com/paulos23-coder) 
+- GitHub: [Paulos Girmachew](https://github.com/paulos23-coder)
+- Always learning⚙️ 
