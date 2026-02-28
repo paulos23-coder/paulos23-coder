@@ -1,9 +1,12 @@
 ## Hi I'm Paulos Girmachew. 👋
 <p>Also called Bebi 👨🏽‍💻</p
 <p>Curious & Tenacious Developer 🚀.</p>
+
+## About me 👋
 A junior FullStack developer aslso computer science student who is passionate about codes and building web projects.
 - 🔭 Currently working on personal project landing soon.
 - 🌱 I’m currently learning more about backend technologies node.js and pytorch.
+
 - ## 🛠 Skills & Technologies:
 
 -    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
