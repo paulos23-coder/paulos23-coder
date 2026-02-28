@@ -20,4 +20,4 @@ A junior FullStack developer aslso computer science student who is passionate ab
 ## 📫 Connect with Me
 - LinkedIn: [Paulos Girmachew](https://www.linkedin.com/in/paulos-girmachew-0420473b3)  
 - GitHub: [Paulos Girmachew](https://github.com/paulos23-coder)
-- [Email me](mailto:paulosgirmachew28@gmail.com)
+- Email:  [Email me](mailto:paulosgirmachew28@gmail.com)
