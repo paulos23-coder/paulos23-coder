@@ -3,7 +3,7 @@
 <p>Curious & Tenacious Developer 🚀.</p>
 
 ## About me 📖
-A junior FullStack developer aslso computer science student who is passionate about codes and building web projects.
+A junior FullStack developer also computer science student who is passionate about codes and building web projects.
 - 🔭 Currently working on personal project landing soon.
 - 🌱 I’m currently learning more about backend technologies node.js and pytorch.
 
@@ -15,6 +15,8 @@ A junior FullStack developer aslso computer science student who is passionate ab
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ⚡ I love debugging, problem-solving, and experimenting with new tech.
 - ⚙️ Always learning
   
